@@ -1,0 +1,34 @@
+body {
+    background-image:url(./images/freaks-dvd-movie-cover.jpg);
+    background-color:black;
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center
+}
+
+h1{
+    font-size:80px;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:crimson
+}
+
+p {
+    box-sizing:border-box;
+    box-shadow:azure;
+    background-color: rgba(194, 9, 9, 0.815);
+    border:10px;
+    text-align:left;
+    width:fit-content
+}
+.left{
+width:50%
+}
+.lh {
+    float:left;
+    width:50%
+}
+.trailers{
+    margin-left:150%;
+    height: 100px
+}
